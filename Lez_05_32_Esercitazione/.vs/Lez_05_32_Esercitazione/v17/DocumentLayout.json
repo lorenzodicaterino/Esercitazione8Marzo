@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\Lez_05_32_Esercitazione\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4321BDC4-D5FB-4F70-868D-89FEEE3CC377}|Lez_05_32_Esercitazione\\Lez_05_32_Esercitazione.csproj|c:\\users\\utente\\desktop\\code\\c#\\programmi_classe\\lez_05_32_esercitazione\\lez_05_32_esercitazione\\classes\\rivista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4321BDC4-D5FB-4F70-868D-89FEEE3CC377}|Lez_05_32_Esercitazione\\Lez_05_32_Esercitazione.csproj|solutionrelative:lez_05_32_esercitazione\\classes\\rivista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4321BDC4-D5FB-4F70-868D-89FEEE3CC377}|Lez_05_32_Esercitazione\\Lez_05_32_Esercitazione.csproj|c:\\users\\utente\\desktop\\code\\c#\\programmi_classe\\lez_05_32_esercitazione\\lez_05_32_esercitazione\\classes\\edicola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4321BDC4-D5FB-4F70-868D-89FEEE3CC377}|Lez_05_32_Esercitazione\\Lez_05_32_Esercitazione.csproj|solutionrelative:lez_05_32_esercitazione\\classes\\edicola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4321BDC4-D5FB-4F70-868D-89FEEE3CC377}|Lez_05_32_Esercitazione\\Lez_05_32_Esercitazione.csproj|c:\\users\\utente\\desktop\\code\\c#\\programmi_classe\\lez_05_32_esercitazione\\lez_05_32_esercitazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4321BDC4-D5FB-4F70-868D-89FEEE3CC377}|Lez_05_32_Esercitazione\\Lez_05_32_Esercitazione.csproj|solutionrelative:lez_05_32_esercitazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4321BDC4-D5FB-4F70-868D-89FEEE3CC377}|Lez_05_32_Esercitazione\\Lez_05_32_Esercitazione.csproj|c:\\users\\utente\\desktop\\code\\c#\\programmi_classe\\lez_05_32_esercitazione\\lez_05_32_esercitazione\\classes\\giornale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4321BDC4-D5FB-4F70-868D-89FEEE3CC377}|Lez_05_32_Esercitazione\\Lez_05_32_Esercitazione.csproj|solutionrelative:lez_05_32_esercitazione\\classes\\giornale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edicola.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\Lez_05_32_Esercitazione\\Lez_05_32_Esercitazione\\Classes\\Edicola.cs",
+              "RelativeDocumentMoniker": "Lez_05_32_Esercitazione\\Classes\\Edicola.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\Lez_05_32_Esercitazione\\Lez_05_32_Esercitazione\\Classes\\Edicola.cs",
+              "RelativeToolTip": "Lez_05_32_Esercitazione\\Classes\\Edicola.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T19:37:18.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Giornale.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\Lez_05_32_Esercitazione\\Lez_05_32_Esercitazione\\Classes\\Giornale.cs",
+              "RelativeDocumentMoniker": "Lez_05_32_Esercitazione\\Classes\\Giornale.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\Lez_05_32_Esercitazione\\Lez_05_32_Esercitazione\\Classes\\Giornale.cs",
+              "RelativeToolTip": "Lez_05_32_Esercitazione\\Classes\\Giornale.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T12:32:01.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rivista.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\Lez_05_32_Esercitazione\\Lez_05_32_Esercitazione\\Classes\\Rivista.cs",
+              "RelativeDocumentMoniker": "Lez_05_32_Esercitazione\\Classes\\Rivista.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\Lez_05_32_Esercitazione\\Lez_05_32_Esercitazione\\Classes\\Rivista.cs",
+              "RelativeToolTip": "Lez_05_32_Esercitazione\\Classes\\Rivista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T12:29:40.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\Lez_05_32_Esercitazione\\Lez_05_32_Esercitazione\\Program.cs",
+              "RelativeDocumentMoniker": "Lez_05_32_Esercitazione\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\Lez_05_32_Esercitazione\\Lez_05_32_Esercitazione\\Program.cs",
+              "RelativeToolTip": "Lez_05_32_Esercitazione\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMoBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:03:17.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_05_32_Esercitazione\Lez_05_32_Esercitazione\bin\Debug\net8.0\Lez_05_32_Esercitazione.exe
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_05_32_Esercitazione\Lez_05_32_Esercitazione\bin\Debug\net8.0\Lez_05_32_Esercitazione.deps.json
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_05_32_Esercitazione\Lez_05_32_Esercitazione\bin\Debug\net8.0\Lez_05_32_Esercitazione.runtimeconfig.json
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_05_32_Esercitazione\Lez_05_32_Esercitazione\bin\Debug\net8.0\Lez_05_32_Esercitazione.dll
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_05_32_Esercitazione\Lez_05_32_Esercitazione\bin\Debug\net8.0\Lez_05_32_Esercitazione.pdb
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_05_32_Esercitazione\Lez_05_32_Esercitazione\obj\Debug\net8.0\Lez_05_32_Esercitazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_05_32_Esercitazione\Lez_05_32_Esercitazione\obj\Debug\net8.0\Lez_05_32_Esercitazione.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_05_32_Esercitazione\Lez_05_32_Esercitazione\obj\Debug\net8.0\Lez_05_32_Esercitazione.AssemblyInfo.cs
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_05_32_Esercitazione\Lez_05_32_Esercitazione\obj\Debug\net8.0\Lez_05_32_Esercitazione.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_05_32_Esercitazione\Lez_05_32_Esercitazione\obj\Debug\net8.0\Lez_05_32_Esercitazione.dll
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_05_32_Esercitazione\Lez_05_32_Esercitazione\obj\Debug\net8.0\refint\Lez_05_32_Esercitazione.dll
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_05_32_Esercitazione\Lez_05_32_Esercitazione\obj\Debug\net8.0\Lez_05_32_Esercitazione.pdb
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_05_32_Esercitazione\Lez_05_32_Esercitazione\obj\Debug\net8.0\Lez_05_32_Esercitazione.genruntimeconfig.cache
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_05_32_Esercitazione\Lez_05_32_Esercitazione\obj\Debug\net8.0\ref\Lez_05_32_Esercitazione.dll

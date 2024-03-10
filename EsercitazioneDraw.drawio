@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" modified="2024-03-10T16:10:36.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="1zC0N3gJyTrQnj8gdlJE" version="24.0.2" type="device">
+  <diagram name="Pagina-1" id="8GxeAp39ivzWaJLe8UOE">
+    <mxGraphModel dx="3328" dy="1924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hqoeAqOE9jo-wHBMOLOT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=none;endArrow=block;endFill=0;jumpSize=10;strokeWidth=3;" parent="1" source="hqoeAqOE9jo-wHBMOLOT-1" target="hqoeAqOE9jo-wHBMOLOT-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="558" y="694" />
+              <mxPoint x="558" y="694" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hqoeAqOE9jo-wHBMOLOT-1" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;GIORNALE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="463" y="689" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hqoeAqOE9jo-wHBMOLOT-2" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- hasInserto : bool&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=left;" parent="1" vertex="1">
+          <mxGeometry x="463" y="739" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hqoeAqOE9jo-wHBMOLOT-4" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;+ Giornale()&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=left;" parent="1" vertex="1">
+          <mxGeometry x="463" y="779" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqoeAqOE9jo-wHBMOLOT-15" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;RIVISTA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="463" y="399" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hqoeAqOE9jo-wHBMOLOT-16" value="- titolo : string&lt;div&gt;- redazione : string&lt;/div&gt;&lt;div&gt;- categoria : string&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=left;" parent="1" vertex="1">
+          <mxGeometry x="463" y="449" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="hqoeAqOE9jo-wHBMOLOT-17" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;+ Rivista()&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;...&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;+ stampaDettaglio() : string&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;+ esportaCSV() : string&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=left;" parent="1" vertex="1">
+          <mxGeometry x="463" y="524" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0lviqsSJWC8nE_hSDqJc-1" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;EDICOLA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="174" y="399" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0lviqsSJWC8nE_hSDqJc-2" value="- qStock : int" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=left;" vertex="1" parent="1">
+          <mxGeometry x="174" y="449" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="0lviqsSJWC8nE_hSDqJc-3" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;+ Edicola()&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;+ stampaQuantita() : int&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;+ aggiornaQuantita() : void&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=left;" vertex="1" parent="1">
+          <mxGeometry x="174" y="524" width="190" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
