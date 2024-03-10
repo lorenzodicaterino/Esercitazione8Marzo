@@ -1,0 +1,1 @@
+Ho provato a completare tutti i punti presenti sul pdf ma ho trovato numerose difficoltà, in particolare al collegamento tra pubblicazioni (che nel mio progetto non esiste avendo gestito riviste come superclass di giornali) e edicola. 
